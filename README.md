@@ -11,6 +11,6 @@ Select "share" -> Save URL and the built-in Android download manager starts down
 
 Supports only Android 4.0 and above.
 
-Available on Google Play store for free at: TODO
+Available on Google Play store for free at: https://play.google.com/store/apps/details?id=se.mannberg.saveurl
 
 Have fun!
